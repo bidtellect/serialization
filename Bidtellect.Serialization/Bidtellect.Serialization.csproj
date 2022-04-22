@@ -6,6 +6,7 @@
     <Version>1.0.0</Version>
     <Authors>Bidtellect Team</Authors>
     <Company>Bidtellect</Company>
+    <Title>Bidtellect.Serialization</Title>
     <Description>A library that provides functionality to serialize and deserialize data.</Description>
     <Copyright>Copyright © 2022 Bidtellect, Inc.</Copyright>
     <PackageProjectUrl>https://github.com/bidtellect/serialization</PackageProjectUrl>
